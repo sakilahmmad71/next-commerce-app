@@ -12,8 +12,8 @@
 2. Clone the repo and change the directory
 
 ```sh
-git clone https://github.com/anilsenay/next-e-commerce.git
-cd next-e-commerce
+git clone https://github.com/sakilahmmad71/next-commerce-app.git
+cd next-commerce-app
 ```
 
 3. Install NPM packages
